@@ -1,0 +1,21 @@
+{
+  "name": "tutorial-bot",
+  "version": "1.0.0",
+  "description": "Voodoo Pharaoh Discord.js v13 Tutorial Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node shards.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.5.1",
+    "ascii-table": "^0.0.9"
+  },
+  "repository": {
+    "url": "https://github.com/VoodooPharaohProductions/v13-Tutorials-Advanced/tree/main/01.%20Shard%20System"
+  },
+  "keywords": [
+    "voodoo pharaoh",
+    "discordjs"
+  ],
+  "author": "FriiZoLoGYy - Voodoo Pharaoh Productions"
+}
